@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744607527795-66mi4ul1nv1nv4761b46nlo2book4siu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744607527795-66mi4ul1nv1nv4761b46nlo2book4siu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>744607527795-qjtojhujjd584d4kt0m12v6f5c2vd09c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCG2KCl0ztNUWthtGYgLYh0AzPGeywOZhc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744607527795</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.greenHouse</string>
+	<key>PROJECT_ID</key>
+	<string>greenhouse-e4530</string>
+	<key>STORAGE_BUCKET</key>
+	<string>greenhouse-e4530.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744607527795:ios:c9349113c1fa1ff957cb06</string>
+	<key>DATABASE_URL</key>
+	<string>https://greenhouse-e4530-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
